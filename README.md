@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aayushharma
+- 👋 Hi, I’m @Aayush Sharma
 - 👀 I’m interested in web development , gaming
 - 🌱 I’m currently learning java , web development
 - 💞️ I’m looking to collaborate on ...
